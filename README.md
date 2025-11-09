@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/superdev947"><img src="https://readme-typing-svg.herokuapp.com/demo/?weight=700&lines=I'm+a+data+structure+and+algorithm+expert"></a>
+  <a href="https://github.com/snowflakeworld"><img src="https://readme-typing-svg.herokuapp.com/demo/?weight=700&lines=I'm+a+data+structure+and+algorithm+expert"></a>
 </p>
 
 <!--
