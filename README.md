@@ -51,7 +51,7 @@ I'm enthusiastic in using **Sparx EA**(Enterprise Architecture tool) and **Balsa
 
 ### 💡 **How I Can Help**
 
-- **HackerRank** problem solver
+- **LeetCode** and **HackerRank** problem solver
 - **Full-Stack Architecture** for complex enterprise applications
 - **AI/ML Integration** consulting and implementation
 - **Blockchain Development** from smart contracts to full DApps
