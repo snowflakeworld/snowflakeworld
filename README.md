@@ -49,14 +49,6 @@ I'm enthusiastic in using **Sparx EA**(Enterprise Architecture tool) and **Balsa
 - **CI/CD**: ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white), ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🚀 By the way here are some of my statistics
-![Snow's github stats](https://github-readme-stats.vercel.app/api?username=snowflakeworld&show_icons=true&theme=dracula)
-![Snow's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowflakeworld&theme=dracula&layout=compact)
-
----
-
 ### 💡 **How I Can Help**
 
 - **HackerRank** problem solver
