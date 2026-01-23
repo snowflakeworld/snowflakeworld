@@ -27,15 +27,9 @@ I'm enthusiastic in using **Sparx EA**(Enterprise Architecture tool) and **Balsa
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)
+
 
 #### Frameworks & Libraries:
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white), ![Yew](https://img.shields.io/badge/-Yew-0095FF?style=flat-square&logo=rust&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
