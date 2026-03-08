@@ -10,9 +10,13 @@
 
 I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems.
 
-And also expertised in **Mapbox** integration and **Data structure and Algorithm**.
+And also expertised in **GIS**, especially Mapbox, and **Data structure and Algorithm**.
 
-I'm enthusiastic in using **Sparx EA**(Enterprise Architecture tool) and **Balsamiq**(Mockup tool).
+I've plenty of knowledge and practical experience in security, making systems robust and reliable.
+
+I'm enthusiastic in using **Sparx EA**(Enterprise Architecture tool) and **Balsamiq**(Mockup tool) for providing full overview of entire system architecture.
+
+I'm almost thinking about how I can improve performance by introducing new algorithm designs and reducing time complexity of individual parts.
 
 ---
 
